@@ -1,0 +1,15 @@
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.FrmHttpSend.resources
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.Properties.Resources.resources
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.csproj.GenerateResource.Cache
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\bin\Debug\SMSCloudHttpSend.exe
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\bin\Debug\SMSCloudHttpSend.pdb
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.exe
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.pdb
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.exe
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.pdb
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\bin\Debug\SMSCloudHttpSend.exe
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\bin\Debug\SMSCloudHttpSend.pdb
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.FrmHttpSend.resources
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.Properties.Resources.resources
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.csproj.GenerateResource.Cache
+H:\大汉三通短信云平台\接口手册\短信云平台接口手册\example\C#\sms_http\json\SMSCloudHttpSend\SMSCloudHttpSend\obj\Debug\SMSCloudHttpSend.csprojResolveAssemblyReference.cache
